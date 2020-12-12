@@ -1,1 +1,1 @@
-ffmpeg -i [input].mkv -b [TargetVolume] [output].mkv
+ffmpeg -i $INPUT.mkv -b $TargetVolume $OUTPUT.mkv
